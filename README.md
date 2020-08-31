@@ -1,9 +1,9 @@
-# test
+# Test the GitHub features
 
-## sample text
+## Simple commands Git leant
 
-learning git
+### Learning Git command line commands
 
-* Git Init
-* Git Clone
-* Git Status
+* git init - Initialize a Git repository
+* git clone - Downloads a Git repository from given URL.
+* Git Status - Show the status of unstaged & staged files of the Git repository.
